@@ -5,6 +5,13 @@
 
 - basic SI prefixes
 
+- dealing with fractions (people hate fractions)
+	- fractions are just division ($\frac{2}{5} = 2 \div 5$)
+	- $x = \frac{x}{1}$
+	- $\frac{2}{5} \times \frac{3}{4} = \frac{6}{20}$ (multiplying straight across)
+		- note: simplifying fractions technically isn't necessary
+	- $\frac{x}{y} = \frac{x}{1} \div \frac{y}{1} = \frac{x}{1} \times \frac{1}{y}$ (keep, change, flip)
+
 - scientific notation: how to determine it
 	- number bigger than 1 -> exponent of 10 will be positive
 	- number smaller than 1 -> exponent of 10 will be negative
