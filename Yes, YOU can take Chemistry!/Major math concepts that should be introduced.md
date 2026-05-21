@@ -11,6 +11,7 @@
 	- $\frac{2}{5} \times \frac{3}{4} = \frac{6}{20}$ (multiplying straight across)
 		- note: simplifying fractions technically isn't necessary
 	- $\frac{x}{y} = \frac{x}{1} \div \frac{y}{1} = \frac{x}{1} \times \frac{1}{y}$ (keep, change, flip)
+	- $\frac{\cancel{x}}{y} \times \frac{1}{\cancel{x}} = \frac{1}{y}$ (cross-cancelling)
 
 - scientific notation: how to determine it
 	- number bigger than 1 -> exponent of 10 will be positive
